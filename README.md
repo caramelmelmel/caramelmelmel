@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm an aspiring software engineer looking to work with anything and anything.
+
+Ask me anything
+
+
 <!--
 **caramelmelmel/caramelmelmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
