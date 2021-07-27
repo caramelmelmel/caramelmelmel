@@ -10,10 +10,10 @@ Product design <br/>
 Developer <br/>
 
 ### Contact
-Telegram
-Facebook
-Instagram
-LinkedIn
+Telegram <br/>
+Facebook <br/>
+Instagram <br/>
+LinkedIn <br/>
 
 
 
