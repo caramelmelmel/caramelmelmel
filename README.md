@@ -15,6 +15,8 @@ Facebook <br/>
 Instagram <br/>
 LinkedIn <br/>
 
+![caramelmelmel's GitHub stats](https://github-readme-stats.vercel.app/api?username=caramelmelmel&show_icons=true&theme=dracula)
+
 
 
 
