@@ -1,4 +1,4 @@
-<img src='./images/logo.png' align='center' width='420px'></img>
+<p align='center'><img src='./images/logo.png' align='center' width='420px'></img></p>
 
 ### Hi there 👋
 
