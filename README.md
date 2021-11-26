@@ -1,19 +1,36 @@
+<img src='./images/logo.png' align='center' width='420px'></img>
+
 ### Hi there 👋
 
-I'm an aspiring software engineer looking to work with anything and anything. 
+I'm a final year student from the Singapore University of Technology and Design graduating in the Fall of 2022. I'm pretty much an aspiring software engineer looking to work with anything and everything.
 
-Ask me anything
+Ask me anything in the contact section.
+
+I work on projects that interest me. I even work on these projects for free if it's for a social cause.
 
 ### Skills
 UI/UX design 🎨 <br/>
 Product design <br/>
-Developer <br/>
+Full stack Developer <br/>
+React <br/>
+Nodejs <br/>
+PHP <br/>
+MYSQL <br/>
+Python <br/>
+Docker <br/>
+
 
 ### Contact
-Telegram <br/>
-Facebook <br/>
-Instagram <br/>
-LinkedIn <br/>
+[
+<img src='./images/telegram.png' align='center' width='20px'></img>
+](https://t.me/caramel_melmel)
+[
+<img src='./images/linkedin.png' align='center' width='20px'></img>
+](https://www.linkedin.com/in/melody-yun-341951179/)
+[<img src='./images/instagram.png' align='center' width='20px'></img>
+](https://www.instagram.com/caramel.melmel/)
+
+
 
 ![caramelmelmel's GitHub stats](https://github-readme-stats.vercel.app/api?username=caramelmelmel&show_icons=true&theme=dracula)
 
