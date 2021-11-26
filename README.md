@@ -22,12 +22,12 @@ Docker <br/>
 
 ### Contact
 [
-<img src='./images/telegram.png' align='center' width='20px'></img>
+<img src='./images/telegram.png' align='center' width='50px'></img>
 ](https://t.me/caramel_melmel)
 [
-<img src='./images/linkedin.png' align='center' width='20px'></img>
+<img src='./images/linkedin.png' align='center' width='50px'></img>
 ](https://www.linkedin.com/in/melody-yun-341951179/)
-[<img src='./images/instagram.png' align='center' width='20px'></img>
+[<img src='./images/instagram.png' align='center' width='50px'></img>
 ](https://www.instagram.com/caramel.melmel/)
 
 
