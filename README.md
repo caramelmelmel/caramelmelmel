@@ -1,12 +1,19 @@
 <p align='center'><img src='./images/logo.png' align='center' width='420px'></img></p>
 
-### Hi there 👋
+<h3 align="center"> Hi There! 👋 </h3>
 
-I'm a final year student from the Singapore University of Technology and Design graduating in the Fall of 2022. I'm pretty much an aspiring software engineer looking to work with anything and everything.
-
+<p align="center">
+I'm a final year student from the Singapore University of Technology and Design graduating in the Fall of 2022. 
+</p>
+<p align="center">
+I'm pretty much an aspiring software engineer looking to work with anything and everything.
+</p>
+<p align="center">
 Ask me anything in the contact section.
-
-I work on projects that interest me. I even work on these projects for free if it's for a social cause.
+</p>
+<p align="center">
+I work on projects that interest me. I even work on these projects for free if it's for social benefits.
+</p>
 
 ### Skills
 UI/UX design 🎨 <br/>
@@ -30,9 +37,17 @@ Docker <br/>
 [<img src='./images/instagram.png' align='center' width='50px'></img>
 ](https://www.instagram.com/caramel.melmel/)
 
+<br/>
+<p align="center">
+<a href="https://github.com/caramelmelmel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caramelmelmel&theme=dracula" />
+</a>
+<a href="https://github.com/caramelmelmel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caramelmelmel&show_icons=true&theme=dracula" height="261px"/>
+</a>
+</p>
 
-
-![caramelmelmel's GitHub stats](https://github-readme-stats.vercel.app/api?username=caramelmelmel&show_icons=true&theme=dracula)
+  
 
 
 
