@@ -15,7 +15,9 @@ Ask me anything in the contact section.
 I work on projects that interest me. I even work on these projects for free if it's for social benefits.
 </p>
 
-### Skills
+
+<h3 align="center">Skills </h3>
+<p align ="center">
 UI/UX design 🎨 <br/>
 Product design <br/>
 Full stack Developer <br/>
@@ -25,25 +27,28 @@ PHP <br/>
 MYSQL <br/>
 Python <br/>
 Docker <br/>
+</p>
 
 
-### Contact
-[
+<h3 align="center"> Contact </h3>
+<p align="center">
+<a href="https://t.me/caramel_melmel">
 <img src='./images/telegram.png' align='center' width='50px'></img>
-](https://t.me/caramel_melmel)
-[
+</a>
+<a href="https://www.linkedin.com/in/melody-yun-341951179/">
 <img src='./images/linkedin.png' align='center' width='50px'></img>
-](https://www.linkedin.com/in/melody-yun-341951179/)
-[<img src='./images/instagram.png' align='center' width='50px'></img>
-](https://www.instagram.com/caramel.melmel/)
-
+</a>
+<a href="https://www.instagram.com/caramel.melmel/">
+<img src='./images/instagram.png' align='center' width='50px'></img>
+</a>
+</p>
 <br/>
 <p align="center">
 <a href="https://github.com/caramelmelmel/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caramelmelmel&theme=dracula" />
 </a>
 <a href="https://github.com/caramelmelmel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caramelmelmel&show_icons=true&theme=dracula" height="261px"/>
+  <img align="center" width="450px" src="https://github-readme-stats.vercel.app/api?username=caramelmelmel&show_icons=true&theme=dracula" height="261px"/>
 </a>
 </p>
 
