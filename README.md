@@ -3,7 +3,7 @@
 <h3 align="center"> Hi There! 👋 </h3>
 
 <p align="center">
-I'm a final year student from the Singapore University of Technology and Design graduating in the Fall of 2022. 
+I'm a Software Engineer at Knovel Engineering currently working opn DevOps items.
 </p>
 <p align="center">
 I'm pretty much an aspiring software engineer looking to work with anything and everything.
